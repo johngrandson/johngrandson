@@ -1,10 +1,8 @@
 # Hi, I'm João Netto! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-🔭 I’m currently working as **Sr. Software Engineer**
-
-💬 Ask me about **Web Development**
-
-📫 How to reach me: **[My Website](http://johngrandson.github.io/)**
+- 🔭 I’m a self-taught programmer and currently working as **Sr. Software Engineer** at **Sortium**
+- 💬 Ask me about **Web Development**
+- 📫 How to reach me: **[My Website](http://johngrandson.github.io/)**
 
 ## My Skills - Technologies I use
 ![My Skills](https://skillicons.dev/icons?i=js,ts,py,react,nextjs,redux,tailwind,nestjs,expressjs,postgres,jest,git,github,vercel,aws)
