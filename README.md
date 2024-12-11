@@ -1,9 +1,7 @@
 # Hi, I'm João Netto! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 🔭 I’m currently working as **Sr. Software Engineer**
-
 💬 Ask me about **Web Development**
-
 📫 How to reach me: **[My Website](http://johngrandson.github.io/)**
 
 ## My Skills - Technologies I use
