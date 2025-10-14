@@ -1,7 +1,7 @@
 # Hi, I'm João Netto! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-- 🔭 I'm a self-taught programmer working as a **Senior Software Engineer** at **Sortium**.
-- 💬 Ask me about **Web Development**, **Clean Code**, **Software Architecture**, **Music** and **Kitesurfing**
+- 🔭 I'm a self-taught programmer working as a **Senior Software Engineer**.
+- 💬 Ask me about **Web Development**, **Clean Code**, **Software Architecture**, **AI**, **Music** and **Kitesurfing**
 - 📫 How to reach me: **[My Website](http://johngrandson.github.io/)**
 
 ## My Skills - Technologies I use
