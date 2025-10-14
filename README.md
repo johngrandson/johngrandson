@@ -5,8 +5,8 @@
 - 📫 How to reach me: **[My Website](http://johngrandson.github.io/)**
 
 ## My Skills - Technologies I use
-![My Skills](https://skillicons.dev/icons?i=js,ts,py,react,nextjs,redux,tailwind,yew,nestjs,expressjs,postgres,pnpm,jest,git,github)
-![My Skills](https://skillicons.dev/icons?i=firebase,nodejs,cs,dotnet,unity,sentry,heroku,kafka,rabbitmq,redis,mongodb,fastapi,ableton,linux,gcp,githubactions,prisma,vite,ipfs,html,css,django,docker,elixir,graphql,pnpm,postman,styledcomponents,solidity,threejs,ubuntu,apollo,vercel,aws,electron,vscode)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,react,nextjs,redux,tailwind,nestjs,expressjs,postgres,pnpm,jest,git)
+![My Skills](https://skillicons.dev/icons?i=postman,apollo,firebase,nodejs,sentry,rabbitmq,redis,mongodb,fastapi,linux,gcp,githubactions,prisma,vite,docker,elixir,aws,vscode,graphql,pnpm,supabase)
 
 ## Connect with me:
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/joaonettopb/)
