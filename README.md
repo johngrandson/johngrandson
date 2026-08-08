@@ -2,7 +2,7 @@
 
 - 🔭 I'm a self-taught programmer working as a **Senior Software Engineer**.
 - 💬 Ask me about **Web Development**, **Clean Code**, **Software Architecture**, **AI**, **Music** and **Kitesurfing**
-- 📫 How to reach me: **[My Website](http://johngrandson.github.io/)**
+- 📫 How to reach me: **[My Website](https://jbmn.dev/en)**
 
 ## My Skills - Technologies I use
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,react,nextjs,redux,tailwind,nestjs,expressjs,postgres,pnpm,jest,git)
